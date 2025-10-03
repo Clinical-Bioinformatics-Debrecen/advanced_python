@@ -1,6 +1,6 @@
 # Advanced Python
 
-The materials for the Advanced Python course will be hosted on Google Drive. These are the lecture notes for each topic:
+The materials for the Advanced Python course will be hosted on Google Colab. These are the lecture notes for each topic:
 
 - [Topic 1: Dependencies and Environments](https://colab.research.google.com/drive/1VSa2DoernK0Y66qOkPb5UD2DIwOtJdxV)
 - [Topic 2: Dealing with Errors: Exceptions, Logging, Debugging and Testing](https://colab.research.google.com/drive/17ZQZVg-E9g-zurJ8JJ1lh5JSdXGJG_z_)
